@@ -1,0 +1,102 @@
+[29-Nov-2016 17:34:02 America/Denver] PHP Notice:  Undefined index: url in /home2/blitspos/public_html/TLDR.php on line 26
+[29-Nov-2016 17:34:02 America/Denver] PHP Warning:  file_get_contents(): Filename cannot be empty in /home2/blitspos/public_html/TLDR.php on line 30
+[30-Nov-2016 05:08:32 America/Denver] PHP Warning:  file_get_contents(): Unable to find the wrapper &quot;chrome&quot; - did you forget to enable it when you configured PHP? in /home2/blitspos/public_html/TLDR.php on line 30
+[30-Nov-2016 05:08:32 America/Denver] PHP Warning:  file_get_contents(chrome://newtab/): failed to open stream: No such file or directory in /home2/blitspos/public_html/TLDR.php on line 30
+[30-Nov-2016 09:52:29 America/Denver] PHP Notice:  Undefined variable: dbcon in /home2/blitspos/public_html/addlegal.php on line 17
+[30-Nov-2016 09:52:29 America/Denver] PHP Fatal error:  Call to a member function prepare() on null in /home2/blitspos/public_html/addlegal.php on line 17
+[30-Nov-2016 09:59:23 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'blitspos_User'@'localhost' (using password: YES) in /home2/blitspos/public_html/addlegal.php on line 14
+[30-Nov-2016 09:59:23 America/Denver] PHP Notice:  Undefined variable: mysqldb in /home2/blitspos/public_html/addlegal.php on line 19
+[30-Nov-2016 09:59:23 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/addlegal.php on line 19
+[30-Nov-2016 09:59:23 America/Denver] PHP Notice:  Undefined variable: mysqldb in /home2/blitspos/public_html/addlegal.php on line 19
+[30-Nov-2016 09:59:23 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/addlegal.php on line 19
+[30-Nov-2016 09:59:23 America/Denver] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home2/blitspos/public_html/addlegal.php on line 24
+[30-Nov-2016 09:59:23 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/addlegal.php on line 26
+[30-Nov-2016 09:59:23 America/Denver] PHP Fatal error:  Call to a member function bind_param() on null in /home2/blitspos/public_html/addlegal.php on line 30
+[30-Nov-2016 10:00:15 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'blitspos_User'@'localhost' (using password: YES) in /home2/blitspos/public_html/addlegal.php on line 9
+[30-Nov-2016 10:00:15 America/Denver] PHP Notice:  Undefined variable: mysqldb in /home2/blitspos/public_html/addlegal.php on line 14
+[30-Nov-2016 10:00:15 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/addlegal.php on line 14
+[30-Nov-2016 10:00:15 America/Denver] PHP Notice:  Undefined variable: mysqldb in /home2/blitspos/public_html/addlegal.php on line 14
+[30-Nov-2016 10:00:15 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/addlegal.php on line 14
+[30-Nov-2016 10:00:15 America/Denver] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home2/blitspos/public_html/addlegal.php on line 19
+[30-Nov-2016 10:00:15 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/addlegal.php on line 21
+[30-Nov-2016 10:00:15 America/Denver] PHP Fatal error:  Call to a member function bind_param() on null in /home2/blitspos/public_html/addlegal.php on line 25
+[30-Nov-2016 10:04:00 America/Denver] PHP Notice:  Undefined index: WordName in /home2/blitspos/public_html/addlegal.php on line 25
+[30-Nov-2016 10:04:00 America/Denver] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home2/blitspos/public_html/addlegal.php on line 25
+[30-Nov-2016 11:22:43 America/Denver] PHP Notice:  Array to string conversion in /home2/blitspos/public_html/TLDR.php on line 46
+[30-Nov-2016 12:23:09 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/blitspos/public_html/TLDR.php on line 78
+[30-Nov-2016 12:28:35 America/Denver] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home2/blitspos/public_html/TLDR.php on line 70
+[30-Nov-2016 12:39:16 America/Denver] PHP Notice:  Undefined variable: mysqlii in /home2/blitspos/public_html/TLDR.php on line 67
+[30-Nov-2016 12:39:16 America/Denver] PHP Fatal error:  Call to a member function close() on null in /home2/blitspos/public_html/TLDR.php on line 67
+[30-Nov-2016 12:39:20 America/Denver] PHP Notice:  Undefined variable: mysqlii in /home2/blitspos/public_html/TLDR.php on line 67
+[30-Nov-2016 12:39:20 America/Denver] PHP Fatal error:  Call to a member function close() on null in /home2/blitspos/public_html/TLDR.php on line 67
+[30-Nov-2016 12:40:09 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/blitspos/public_html/TLDR.php on line 72
+[30-Nov-2016 12:41:55 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/blitspos/public_html/TLDR.php on line 72
+[30-Nov-2016 12:43:39 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/blitspos/public_html/TLDR.php on line 72
+[30-Nov-2016 12:43:55 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/blitspos/public_html/TLDR.php on line 72
+[30-Nov-2016 12:46:07 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/blitspos/public_html/TLDR.php on line 72
+[30-Nov-2016 12:51:03 America/Denver] PHP Warning:  file_get_contents(): Failed to enable crypto in /home2/blitspos/public_html/TLDR.php on line 46
+[30-Nov-2016 12:51:03 America/Denver] PHP Warning:  file_get_contents(https://imperialadvisors.com/SubAgreement.php): failed to open stream: operation failed in /home2/blitspos/public_html/TLDR.php on line 46
+[30-Nov-2016 13:08:13 America/Denver] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home2/blitspos/public_html/TLDR.php on line 61
+[30-Nov-2016 13:16:55 America/Denver] PHP Notice:  Undefined index: WordUpdate in /home2/blitspos/public_html/updatelegal.php on line 18
+[30-Nov-2016 13:16:55 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/updatelegal.php on line 26
+[30-Nov-2016 13:16:55 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/blitspos/public_html/updatelegal.php on line 32
+[30-Nov-2016 13:26:41 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home2/blitspos/public_html/TLDR.php on line 64
+[30-Nov-2016 13:26:41 America/Denver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home2/blitspos/public_html/TLDR.php on line 80
+[30-Nov-2016 13:51:18 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home2/blitspos/public_html/TLDR.php on line 111
+[30-Nov-2016 13:52:35 America/Denver] PHP Warning:  strpos(): needle is not a string or an integer in /home2/blitspos/public_html/TLDR.php on line 92
+[30-Nov-2016 13:58:05 America/Denver] PHP Warning:  strpos(): needle is not a string or an integer in /home2/blitspos/public_html/TLDR.php on line 83
+[30-Nov-2016 14:05:52 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/blitspos/public_html/TLDR.php on line 82
+[30-Nov-2016 14:14:34 America/Denver] PHP Notice:  Undefined variable: count in /home2/blitspos/public_html/TLDR.php on line 84
+[30-Nov-2016 14:15:15 America/Denver] PHP Warning:  strpos(): needle is not a string or an integer in /home2/blitspos/public_html/TLDR.php on line 86
+[30-Nov-2016 14:15:16 America/Denver] PHP Warning:  strpos(): needle is not a string or an integer in /home2/blitspos/public_html/TLDR.php on line 86
+[30-Nov-2016 14:15:16 America/Denver] PHP Warning:  strpos(): needle is not a string or an integer in /home2/blitspos/public_html/TLDR.php on line 86
+[30-Nov-2016 14:18:44 America/Denver] PHP Notice:  Array to string conversion in /home2/blitspos/public_html/TLDR.php on line 86
+[30-Nov-2016 14:19:44 America/Denver] PHP Notice:  Array to string conversion in /home2/blitspos/public_html/TLDR.php on line 86
+[30-Nov-2016 14:21:02 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/blitspos/public_html/TLDR.php on line 85
+[30-Nov-2016 14:29:33 America/Denver] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home2/blitspos/public_html/TLDR.php on line 86
+[30-Nov-2016 14:31:00 America/Denver] PHP Warning:  strcmp() expects parameter 2 to be string, array given in /home2/blitspos/public_html/TLDR.php on line 87
+[30-Nov-2016 14:31:36 America/Denver] PHP Notice:  Array to string conversion in /home2/blitspos/public_html/TLDR.php on line 87
+[30-Nov-2016 14:32:49 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home2/blitspos/public_html/TLDR.php on line 87
+[30-Nov-2016 14:43:10 America/Denver] PHP Notice:  Array to string conversion in /home2/blitspos/public_html/TLDR.php on line 85
+[30-Nov-2016 14:44:46 America/Denver] PHP Notice:  Array to string conversion in /home2/blitspos/public_html/TLDR.php on line 85
+[30-Nov-2016 14:46:27 America/Denver] PHP Notice:  Array to string conversion in /home2/blitspos/public_html/TLDR.php on line 85
+[30-Nov-2016 14:49:34 America/Denver] PHP Notice:  Array to string conversion in /home2/blitspos/public_html/TLDR.php on line 85
+[30-Nov-2016 14:54:11 America/Denver] PHP Notice:  Array to string conversion in /home2/blitspos/public_html/TLDR.php on line 85
+[30-Nov-2016 15:01:23 America/Denver] PHP Notice:  Array to string conversion in /home2/blitspos/public_html/TLDR.php on line 94
+[30-Nov-2016 15:42:17 America/Denver] PHP Notice:  Undefined index: url in /home2/blitspos/public_html/TLDR.php on line 42
+[30-Nov-2016 15:42:17 America/Denver] PHP Warning:  file_get_contents(): Filename cannot be empty in /home2/blitspos/public_html/TLDR.php on line 46
+[01-Dec-2016 08:37:09 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home2/blitspos/public_html/addRating.php on line 27
+[01-Dec-2016 08:37:36 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home2/blitspos/public_html/addDocTerms.php on line 29
+[01-Dec-2016 08:39:38 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home2/blitspos/public_html/addRating.php on line 27
+[01-Dec-2016 12:26:39 America/Denver] PHP Notice:  Undefined index: WordUpdate in /home2/blitspos/public_html/updatelegal.php on line 18
+[01-Dec-2016 12:26:39 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/updatelegal.php on line 26
+[01-Dec-2016 12:26:39 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/blitspos/public_html/updatelegal.php on line 32
+[01-Dec-2016 12:26:40 America/Denver] PHP Notice:  Undefined index: WordUpdate in /home2/blitspos/public_html/updatelegal.php on line 18
+[01-Dec-2016 12:26:40 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/updatelegal.php on line 26
+[01-Dec-2016 12:26:40 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/blitspos/public_html/updatelegal.php on line 32
+[01-Dec-2016 12:26:40 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home2/blitspos/public_html/addDocTerms.php on line 29
+[01-Dec-2016 12:26:40 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home2/blitspos/public_html/addDocTerms.php on line 29
+[01-Dec-2016 12:26:41 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home2/blitspos/public_html/addRating.php on line 27
+[01-Dec-2016 12:26:41 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home2/blitspos/public_html/addRating.php on line 27
+[02-Dec-2016 06:58:34 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/expert_view.php on line 58
+[02-Dec-2016 06:58:34 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/blitspos/public_html/expert_view.php on line 61
+[02-Dec-2016 07:01:40 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/rating_added.php on line 16
+[02-Dec-2016 07:01:40 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/blitspos/public_html/rating_added.php on line 18
+[02-Dec-2016 07:37:25 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/expert_view.php on line 58
+[02-Dec-2016 07:37:25 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/blitspos/public_html/expert_view.php on line 61
+[02-Dec-2016 07:42:38 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/expert_view.php on line 58
+[02-Dec-2016 07:42:38 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/blitspos/public_html/expert_view.php on line 61
+[02-Dec-2016 07:43:36 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/expert_view.php on line 59
+[02-Dec-2016 07:43:36 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/blitspos/public_html/expert_view.php on line 62
+[02-Dec-2016 07:43:46 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/expert_view.php on line 59
+[02-Dec-2016 07:43:46 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/blitspos/public_html/expert_view.php on line 62
+[02-Dec-2016 12:51:57 America/Denver] PHP Notice:  Undefined index: WordUpdate in /home2/blitspos/public_html/updatelegal.php on line 18
+[02-Dec-2016 12:51:57 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/updatelegal.php on line 26
+[02-Dec-2016 12:51:57 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/blitspos/public_html/updatelegal.php on line 32
+[02-Dec-2016 12:51:59 America/Denver] PHP Notice:  Undefined index: WordUpdate in /home2/blitspos/public_html/updatelegal.php on line 18
+[02-Dec-2016 12:51:59 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/updatelegal.php on line 26
+[02-Dec-2016 12:51:59 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/blitspos/public_html/updatelegal.php on line 32
+[02-Dec-2016 12:52:00 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/expert_view.php on line 59
+[02-Dec-2016 12:52:00 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/blitspos/public_html/expert_view.php on line 62
+[02-Dec-2016 12:52:01 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/blitspos/public_html/rating_added.php on line 16
+[02-Dec-2016 12:52:01 America/Denver] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/blitspos/public_html/rating_added.php on line 18

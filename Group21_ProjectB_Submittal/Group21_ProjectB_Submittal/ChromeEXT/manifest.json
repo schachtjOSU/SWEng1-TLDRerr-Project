@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "TLDRerr Analyser Plugin",
+  "description": "This extension will analyze a page using TLDRerr database.",
+  "version": "1.7",
+  "browser_action": {
+   "default_icon": "TC.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}

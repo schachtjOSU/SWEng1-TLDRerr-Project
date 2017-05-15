@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+
+  "name": "First Chrome Extension",
+  "description": "Send Url On Click",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "TC.png",
+   "default_popup": "popup.html"
+  },
+
+  "content_scripts": [
+    {
+    "matches": ["http://*/*"],
+    "js": ["jquery.min.js"]
+    }
+  ],
+
+  "permissions": [
+  "activeTab",
+  "http://*/", 
+  "https://*/"
+  ]
+}

@@ -1,0 +1,46 @@
+/* CSS Document for TLDRerr.
+*  http://blitspost.com
+*/
+@charset "utf-8";
+
+body{background-color:#E5FFFF}
+
+
+p{
+	text-align:center;
+	color:#007700;
+}
+
+h1{
+	text-align:center;
+	color:#FF0000;
+}
+
+h2{
+	text-align:center;
+	color:#0000FF;
+}
+
+.table_display td{
+	border: 1px solid blue;
+	padding: 5px;
+	
+}
+
+.bold{
+	color:#CC0000;
+	font:bold;
+	font-size:16px;
+}
+
+legend{
+	color:red;
+	font-size:18px;
+	margin:0 auto;
+}
+
+div{
+	width:800px;
+	margin:0 auto;
+/*	text-align:left; */
+}
